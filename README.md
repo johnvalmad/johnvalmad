@@ -1,7 +1,6 @@
 - 👋 Hi, I’m João V.
 - 👀 I’m interested in data analysis, enterpreunership and finance
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Programming logic, SQL and Python
 - 📫 You can reach me here: https://www.linkedin.com/in/johnvalmada/
 
 <!---
